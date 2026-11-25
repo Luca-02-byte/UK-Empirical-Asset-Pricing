@@ -1,6 +1,5 @@
 # Empirical Asset Pricing: Time-Series and Cross-Sectional Analysis on the UK Stock Market
 
-Group project for the *Financial Markets* course.
 
 ## Overview
 Tests the CAPM, the Fama and French three-factor model and the Carhart four-factor model on ten UK size sorted portfolios (monthly data, 1980–2010, 363 observations).
