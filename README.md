@@ -19,7 +19,7 @@ Tests the CAPM, the Fama and French three-factor model and the Carhart four-fact
 ## Repository content
 - `report.pdf`: full report
 - `EAP.ipynb`: Python analysis used for producing the graphs
-- `EAP_.do`: Stata analysis used for running the analysis
+- `EAP .do`: Stata analysis used for running the analysis
 
 ## Data
 The datasets (`First_Assignment_dataset.xlsx`) are provided by the course and are not included in this repository.
