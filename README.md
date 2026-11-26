@@ -16,7 +16,7 @@ Tests the CAPM, the Fama and French three-factor model and the Carhart four-fact
 - In the cross-section the market price of risk is negative (low-beta anomaly), and SMB, HML and UMD premia are not significant when paired individually with the market factor.
 
 ## Repository content
-- [`report.pdf`](./Empirical_asset_pricing.pdf): full report
+- [`report.pdf`](./Empirical asset pricing.pdf): full report
 - [`EAP.ipynb`](./EAP.ipynb): Python analysis used for producing the graphs
 - [`EAP.do`](./EAP_.do): Stata analysis used for running the analysis
 
